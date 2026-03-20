@@ -5,14 +5,14 @@
     <description><![CDATA[每日跟踪 zara 推荐的AI builder 更新资讯]]></description>
     <author>麦琪</author>
     <itunes:author>麦琪</itunes:author>
-    <itunes:image href="https://raw.githubusercontent.com/lffengliang-ship-it/ai-podcast/main/cover.jpg"/>
+    <itunes:image href="https://lffengliang-ship-it.github.io/ai-podcast/cover.jpg"/>
     <language>zh-cn</language>
     <link>https://github.com</link>
     
     <item>
       <title><![CDATA[AI Daily Digest - 2026年3月20日]]></title>
       <description><![CDATA[...]]></description>
-      <pubDate>Fri, 20 Mar 2026 05:33:01 GMT</pubDate>
+      <pubDate>Fri, 20 Mar 2026 07:23:24 GMT</pubDate>
       <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bcd80e54408b4fed5f3cf9.mp3" length="0" type="audio/mpeg"/>
       <duration>120</duration>
       <guid isPermaLink="false">69bcd80e54408b4fed5f3cfb</guid>
