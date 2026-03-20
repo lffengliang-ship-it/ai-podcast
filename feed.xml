@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title><![CDATA[AI前沿 Builder 资讯跟踪]]></title>
-    <description><![CDATA[每日追踪 AI 领域真正在干活的人——研究者、创始人、工程师——分享的最新思考和动态]]></description>
+    <title><![CDATA[AI builder 资讯]]></title>
+    <description><![CDATA[每日跟踪 zara 推荐的AI builder 更新资讯]]></description>
     <author>麦琪</author>
     <itunes:author>麦琪</itunes:author>
     <itunes:image href="https://raw.githubusercontent.com/lffengliang-ship-it/ai-podcast/main/cover.jpg"/>
@@ -12,7 +12,7 @@
     <item>
       <title><![CDATA[AI Daily Digest - 2026年3月20日]]></title>
       <description><![CDATA[...]]></description>
-      <pubDate>Fri, 20 Mar 2026 05:17:57 GMT</pubDate>
+      <pubDate>Fri, 20 Mar 2026 05:33:01 GMT</pubDate>
       <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bcd80e54408b4fed5f3cf9.mp3" length="0" type="audio/mpeg"/>
       <duration>120</duration>
       <guid isPermaLink="false">69bcd80e54408b4fed5f3cfb</guid>
