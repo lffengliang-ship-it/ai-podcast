@@ -11,8 +11,32 @@
     
     <item>
       <title><![CDATA[AI builder 资讯 - 2026年3月21日]]></title>
-      <description><![CDATA[...]]></description>
-      <pubDate>Fri, 20 Mar 2026 18:04:54 GMT</pubDate>
+      <description><![CDATA[大家好，欢迎收听 AI builder 资讯，我是主播麦琪。今天我们要聊一个特别有意思的项目——Garry Tan 的 gstack...]]></description>
+      <pubDate>Fri, 20 Mar 2026 18:18:03 GMT</pubDate>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bd8efbb755b67c5363fde8.mp3" length="0" type="audio/mpeg"/>
+      <duration>240</duration>
+      <guid isPermaLink="false">69bd8efbb755b67c5363fdea</guid>
+    </item>
+    <item>
+      <title><![CDATA[AI builder 资讯 - 2026年3月21日]]></title>
+      <description><![CDATA[大家好，欢迎收听 AI 前沿 Builder 资讯跟踪，我是主播麦琪。在这个节目里，我会为你跟踪 AI 领域那些真正在干活的人，也就是研究者、创始人、工程师，他们在 X 上分享的最新思考和动态。
+
+今天我们要聊一个特别有意思的项目，那就是 Garry Tan 的 gstack。这位 Y Combinator 的 CEO 最近做了一件让整个开发者社区都震惊的事情：在过去 60 天里，他写了超过 60 万行生产代码，其中有 35% 还是测试代码。他每天能写出 1 万到 2 万行可用代码，同时还要处理 YC CEO 的所有工作。
+
+这听起来是不是有点像天方夜谭？但 gstack 可能就是这个问题的答案。
+
+gstack 是一个开源软件工厂，它的核心理念是把 Claude Code 变成一个虚拟工程团队。Garry 把它形容成一个拥有 15 个专业角色的团队，比如说，有 CEO 负责重新思考产品，有工程经理来锁定架构，设计师捕捉 AI 问题，还有偏执的审查员来发现生产环境中的 bug，QA 主管会打开真实的浏览器进行点击测试，最后还有发布工程师来处理 PR。
+
+这些角色可不是简单的工具集合，而...]]></description>
+      <pubDate>Fri, 20 Mar 2026 18:17:47 GMT</pubDate>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bd8f31474e48a01a47218a.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">69bd8f31474e48a01a47218c</guid>
+    </item>
+    <item>
+      <title><![CDATA[AI builder 资讯 - 2026年3月21日]]></title>
+      <description><![CDATA[]]></description>
+      <pubDate>Fri, 20 Mar 2026 18:17:20 GMT</pubDate>
       <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bd8c1c474e48a01a470512.mp3" length="0" type="audio/mpeg"/>
       <duration>600</duration>
       <guid isPermaLink="false">69bd8c1c474e48a01a470514</guid>
