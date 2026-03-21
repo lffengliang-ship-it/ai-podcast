@@ -10,6 +10,19 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[Garry Tan 的 gstack：一个人顶一个团队]]></title>
+      <description><![CDATA[【本期亮点】
+1. Y Combinator CEO Garry Tan 60天写60万行代码
+2. gstack 把 Claude Code 变成15人虚拟工程团队
+3. 一个人同时运行10-15个任务，日产1-2万行代码
+
+【总结】Garry Tan 开源的 gstack 工具让一个人可以完成过去20人团队的工作，通过15个 AI 角色和斜杠命令实现。]]></description>
+      <pubDate>Sat, 21 Mar 2026 06:53:11 GMT</pubDate>
+      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69be4009a996e1f95598d5bc.mp3" length="0" type="audio/mpeg"/>
+      <duration>180</duration>
+      <guid isPermaLink="false">gstack-001</guid>
+    </item>
+    <item>
       <title><![CDATA[AI Podcast - 2026/3/21]]></title>
       <description><![CDATA[大家...]]></description>
       <pubDate>Fri, 20 Mar 2026 19:05:22 GMT</pubDate>
