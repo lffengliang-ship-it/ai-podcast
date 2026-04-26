@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title><![CDATA[AI builder 资讯]]></title>
-    <description><![CDATA[每日跟踪 zara 推荐的AI builder 更新资讯]]></description>
+    <title><![CDATA[AI Builders 资讯]]></title>
+    <description><![CDATA[每日解读 AI Builders 的前沿动态，为 AI 产品经理和创业者提供洞察与启发]]></description>
     <author>麦琪</author>
     <itunes:author>麦琪</itunes:author>
     <itunes:image href="https://lffengliang-ship-it.github.io/ai-podcast/cover.jpg"/>
@@ -10,73 +10,12 @@
     <link>https://github.com</link>
     
     <item>
-      <title><![CDATA[Garry Tan 的 gstack：一个人顶一个团队]]></title>
-      <description><![CDATA[【本期亮点】
-1. Y Combinator CEO Garry Tan 60天写60万行代码
-2. gstack 把 Claude Code 变成15人虚拟工程团队
-3. 一个人同时运行10-15个任务，日产1-2万行代码
-
-【总结】Garry Tan 开源的 gstack 工具让一个人可以完成过去20人团队的工作，通过15个 AI 角色和斜杠命令实现。]]></description>
-      <pubDate>Sat, 21 Mar 2026 06:53:11 GMT</pubDate>
-      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69be4009a996e1f95598d5bc.mp3" length="0" type="audio/mpeg"/>
-      <duration>180</duration>
-      <guid isPermaLink="false">gstack-001</guid>
-    </item>
-    <item>
-      <title><![CDATA[AI Podcast - 2026/3/21]]></title>
-      <description><![CDATA[大家...]]></description>
-      <pubDate>Fri, 20 Mar 2026 19:05:22 GMT</pubDate>
-      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bd9a24d05659f58d573769.mp3" length="0" type="audio/mpeg"/>
-      <duration>14</duration>
-      <guid isPermaLink="false">69bd9a24d05659f58d57376b</guid>
-    </item>
-    <item>
-      <title><![CDATA[AI builder 资讯 - 2026年3月21日]]></title>
-      <description><![CDATA[]]></description>
-      <pubDate>Fri, 20 Mar 2026 18:20:38 GMT</pubDate>
-      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bd8efbb755b67c5363fde8.mp3" length="0" type="audio/mpeg"/>
-      <duration>600</duration>
-      <guid isPermaLink="false">69bd8efbb755b67c5363fdea</guid>
-    </item>
-    <item>
-      <title><![CDATA[AI builder 资讯 - 2026年3月21日]]></title>
-      <description><![CDATA[大家好，欢迎收听 AI 前沿 Builder 资讯跟踪，我是主播麦琪。在这个节目里，我会为你跟踪 AI 领域那些真正在干活的人，也就是研究者、创始人、工程师，他们在 X 上分享的最新思考和动态。
-
-今天我们要聊一个特别有意思的项目，那就是 Garry Tan 的 gstack。这位 Y Combinator 的 CEO 最近做了一件让整个开发者社区都震惊的事情：在过去 60 天里，他写了超过 60 万行生产代码，其中有 35% 还是测试代码。他每天能写出 1 万到 2 万行可用代码，同时还要处理 YC CEO 的所有工作。
-
-这听起来是不是有点像天方夜谭？但 gstack 可能就是这个问题的答案。
-
-gstack 是一个开源软件工厂，它的核心理念是把 Claude Code 变成一个虚拟工程团队。Garry 把它形容成一个拥有 15 个专业角色的团队，比如说，有 CEO 负责重新思考产品，有工程经理来锁定架构，设计师捕捉 AI 问题，还有偏执的审查员来发现生产环境中的 bug，QA 主管会打开真实的浏览器进行点击测试，最后还有发布工程师来处理 PR。
-
-这些角色可不是简单的工具集合，而...]]></description>
-      <pubDate>Fri, 20 Mar 2026 18:17:47 GMT</pubDate>
-      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bd8f31474e48a01a47218a.mp3" length="0" type="audio/mpeg"/>
+      <title><![CDATA[GPT-5.5发布、Jevons悖论与AI创业者洞察]]></title>
+      <description><![CDATA[解读GPT-5.5发布对产品工作流的影响；Aaron Levie用Jevons悖论解释为什么AI越强企业越需要人；Nan Yu论设计中的意图与幻觉；以及后提示词时代的竞争力]]></description>
+      <pubDate>Sun, 26 Apr 2026 16:48:53 GMT</pubDate>
+      <enclosure url="https://lffengliang-ship-it.github.io/ai-podcast/episode-2026-04-25.mp3" length="0" type="audio/mpeg"/>
       <duration>0</duration>
-      <guid isPermaLink="false">69bd8f31474e48a01a47218c</guid>
-    </item>
-    <item>
-      <title><![CDATA[AI builder 资讯 - 2026年3月21日]]></title>
-      <description><![CDATA[]]></description>
-      <pubDate>Fri, 20 Mar 2026 18:17:20 GMT</pubDate>
-      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bd8c1c474e48a01a470512.mp3" length="0" type="audio/mpeg"/>
-      <duration>600</duration>
-      <guid isPermaLink="false">69bd8c1c474e48a01a470514</guid>
-    </item>
-    <item>
-      <title><![CDATA[AI builder 资讯 - 2026年3月20日]]></title>
-      <description><![CDATA[...]]></description>
-      <pubDate>Fri, 20 Mar 2026 15:19:46 GMT</pubDate>
-      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bd6376bc220502edd44ca9.mp3" length="0" type="audio/mpeg"/>
-      <duration>60</duration>
-      <guid isPermaLink="false">69bd6376bc220502edd44cab</guid>
-    </item>
-    <item>
-      <title><![CDATA[AI builder 资讯 - 2026年3月20日（第2期）]]></title>
-      <description><![CDATA[太空数据中心、Karpathy、黄仁勋、Google Stitch、Claude Code 技能直播]]></description>
-      <pubDate>Fri, 20 Mar 2026 07:23:24 GMT</pubDate>
-      <enclosure url="https://assets.listenhub.ai/listenhub-public-prod/podcast/69bcd80e54408b4fed5f3cf9.mp3" length="0" type="audio/mpeg"/>
-      <duration>120</duration>
-      <guid isPermaLink="false">69bcd80e54408b4fed5f3cfb</guid>
+      <guid isPermaLink="false">builders-2026-04-25</guid>
     </item>
   </channel>
 </rss>
