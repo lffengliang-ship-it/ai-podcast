@@ -11,8 +11,24 @@
     
     <item>
       <title><![CDATA[GPT-5.5发布、Jevons悖论与AI创业者洞察]]></title>
-      <description><![CDATA[解读GPT-5.5发布对产品工作流的影响；Aaron Levie用Jevons悖论解释为什么AI越强企业越需要人；Nan Yu论设计中的意图与幻觉；后提示词时代的竞争力]]></description>
-      <pubDate>Sun, 26 Apr 2026 17:17:09 GMT</pubDate>
+      <description><![CDATA[本期内容：
+• GPT-5.5 与 GPT-5.5 Pro 发布，模型迭代加速对 AI 产品设计的影响
+• Cursor 推出 /multitask，AI 编程工具从单轮对话走向多任务并行
+• Peter Yang 用 GPT-5.5 + Codex 15分钟做出游戏，AI 自闭环的产品开发流程
+• Linear 产品负责人 Nan Yu：设计的核心是理解不是输出，没有意图的输出就是幻觉
+• Box CEO Aaron Levie 用 Jevons 悖论解读 AI 与就业：AI 越强企业越需要人
+• Aditya Agarwal：我们正在进入后提示词时代
+• Replit 一键导入 Vercel/Lovable 项目，平台壁垒在降低
+
+关键洞察：
+1. 别把竞争力建立在某个模型的具体能力上，要建立在用户理解和领域数据上
+2. 如果你的 AI 产品定位是帮企业解锁新能力而非省钱，增长空间会更大
+3. 提示词技巧在贬值，产品直觉在升值——知道该做什么比知道怎么做更有竞争力
+4. AI 工具的锁定效应在减弱，要靠体验和生态留住用户
+
+信息来源：
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026年4月25日数据）]]></description>
+      <pubDate>Sun, 26 Apr 2026 17:27:14 GMT</pubDate>
       <enclosure url="https://lffengliang-ship-it.github.io/ai-podcast/episode-2026-04-25.mp3" length="0" type="audio/mpeg"/>
       <duration>0</duration>
       <guid isPermaLink="false">builders-2026-04-25</guid>
