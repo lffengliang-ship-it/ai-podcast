@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title><![CDATA[AI builder 资讯]]></title>
-    <description><![CDATA[每日跟踪 zara 推荐的AI builder 更新资讯]]></description>
+    <title><![CDATA[AI Builders 资讯]]></title>
+    <description><![CDATA[每日解读 AI Builders 的前沿动态，为 AI 产品经理和创业者提供洞察与启发]]></description>
     <author>麦琪</author>
     <itunes:author>麦琪</itunes:author>
     <itunes:image href="https://lffengliang-ship-it.github.io/ai-podcast/cover.jpg"/>
@@ -10,6 +10,14 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[GPT-5.5发布、Jevons悖论与AI创业者洞察]]></title>
+      <description><![CDATA[解读GPT-5.5发布对产品工作流的影响；Aaron Levie用Jevons悖论解释为什么AI越强企业越需要人；Nan Yu论设计中的意图与幻觉；后提示词时代的竞争力]]></description>
+      <pubDate>Sun, 26 Apr 2026 17:17:09 GMT</pubDate>
+      <enclosure url="https://lffengliang-ship-it.github.io/ai-podcast/episode-2026-04-25.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-04-25</guid>
+    </item>
+<item>
       <title><![CDATA[Garry Tan 的 gstack：一个人顶一个团队]]></title>
       <description><![CDATA[【本期亮点】
 1. Y Combinator CEO Garry Tan 60天写60万行代码
@@ -22,7 +30,7 @@
       <duration>180</duration>
       <guid isPermaLink="false">gstack-001</guid>
     </item>
-    <item>
+<item>
       <title><![CDATA[AI Podcast - 2026/3/21]]></title>
       <description><![CDATA[大家...]]></description>
       <pubDate>Fri, 20 Mar 2026 19:05:22 GMT</pubDate>
@@ -30,7 +38,7 @@
       <duration>14</duration>
       <guid isPermaLink="false">69bd9a24d05659f58d57376b</guid>
     </item>
-    <item>
+<item>
       <title><![CDATA[AI builder 资讯 - 2026年3月21日]]></title>
       <description><![CDATA[]]></description>
       <pubDate>Fri, 20 Mar 2026 18:20:38 GMT</pubDate>
@@ -38,7 +46,7 @@
       <duration>600</duration>
       <guid isPermaLink="false">69bd8efbb755b67c5363fdea</guid>
     </item>
-    <item>
+<item>
       <title><![CDATA[AI builder 资讯 - 2026年3月21日]]></title>
       <description><![CDATA[大家好，欢迎收听 AI 前沿 Builder 资讯跟踪，我是主播麦琪。在这个节目里，我会为你跟踪 AI 领域那些真正在干活的人，也就是研究者、创始人、工程师，他们在 X 上分享的最新思考和动态。
 
@@ -54,7 +62,7 @@ gstack 是一个开源软件工厂，它的核心理念是把 Claude Code 变成
       <duration>0</duration>
       <guid isPermaLink="false">69bd8f31474e48a01a47218c</guid>
     </item>
-    <item>
+<item>
       <title><![CDATA[AI builder 资讯 - 2026年3月21日]]></title>
       <description><![CDATA[]]></description>
       <pubDate>Fri, 20 Mar 2026 18:17:20 GMT</pubDate>
@@ -62,7 +70,7 @@ gstack 是一个开源软件工厂，它的核心理念是把 Claude Code 变成
       <duration>600</duration>
       <guid isPermaLink="false">69bd8c1c474e48a01a470514</guid>
     </item>
-    <item>
+<item>
       <title><![CDATA[AI builder 资讯 - 2026年3月20日]]></title>
       <description><![CDATA[...]]></description>
       <pubDate>Fri, 20 Mar 2026 15:19:46 GMT</pubDate>
@@ -70,7 +78,7 @@ gstack 是一个开源软件工厂，它的核心理念是把 Claude Code 变成
       <duration>60</duration>
       <guid isPermaLink="false">69bd6376bc220502edd44cab</guid>
     </item>
-    <item>
+<item>
       <title><![CDATA[AI builder 资讯 - 2026年3月20日（第2期）]]></title>
       <description><![CDATA[太空数据中心、Karpathy、黄仁勋、Google Stitch、Claude Code 技能直播]]></description>
       <pubDate>Fri, 20 Mar 2026 07:23:24 GMT</pubDate>
