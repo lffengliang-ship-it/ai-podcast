@@ -11,7 +11,24 @@
     
     <item>
       <title><![CDATA[2026-04-26 AI Builders 日报]]></title>
-      <description><![CDATA[file:///tmp/show-notes.txt]]></description>
+      <description><![CDATA[🔍 本期内容：
+• Sam Altman 公开承认 Claude Code 编程能力已超越 ChatGPT，AI 编程竞争进入"谁更好"新阶段
+• AI 工具深度嵌入工作流后，安全问题从运维层上升到产品设计层，网络安全成为每家 AI 公司的必答题
+• AI 杠杆放大的是你的专业领域知识，"会用 AI"本身不是护城河，找到你的专业方向才能真正借力
+• 第一代 AI 原住民已经出现——7岁孩子用 Codex 的反应说明 toC 产品用户期待已被拉到极限
+• 我们观察到的不是 AI 模型本身，而是模型暴露在我们提问方式下的反应，系统化测 AI 问法才能摸到真实上限
+• 写作≠生成文字，做产品≠写 PRD，AI 能帮你输出但无法替代深度思考，"想清楚"永远是第一步
+• 技术选型最优解在前沿之后一两个身位：足够新、经过验证、但尚未被大厂垄断
+
+💡 关键洞察：
+1. AI 编程工具战争已经比的不是功能，而是效果——用户会用脚投票，创业者必须直面竞品对比
+2. 安全不再是安全团队的事——做 AI 产品的 PM 必须在设计阶段就把安全纳入核心考量
+3. 找到你自己的专业领域，然后用 AI 放大它——这是个人在 AI 时代建立竞争力的唯一路径
+4. toC AI 产品的用户体验标准已被 AI 原住民拉高，你的功能如果不能马上满足用户，用户会觉得是产品烂而不是 AI 不行
+5. 用系统化的方式测 AI——多角度、多角色、多场景——才能真正知道你的 AI 产品上限在哪里
+6. 选技术方向不要追最新论文，追已经开源验证但尚未垄断的方向，需求真实且竞争相对少
+
+📡 信息来源：数据来自 Zara 的 Follow Builders GitHub 仓库（2026年4月26日数据）]]></description>
       <pubDate>Mon, 27 Apr 2026 01:18:45 GMT</pubDate>
       <enclosure url="https://lffengliang-ship-it.github.io/ai-podcast/episode-2026-04-27.mp3" length="0" type="audio/mpeg"/>
       <duration>0</duration>
