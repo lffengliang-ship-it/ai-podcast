@@ -10,6 +10,30 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[资讯 | GPT-5.5 来了，Sam Altman 连发三条推，呼吁重新思考操作系统]]></title>
+      <description><![CDATA[🔍 本期内容：
+• GPT-5.5 发布引发社区强烈反响，Sam Altman 连发三条推
+• Sam Altman 呼吁重新思考操作系统和互联网协议——这可能比模型发布更重要
+• Aaron Levie：AI 替代工作被严重高估，Gell-Mann Amnesia 在 AI 时代的再现
+• Guillermo Rauch：编程 Agent 将是所有超级智能的基础，且具备自我改进能力
+• Garry Tan 的 Agent 三文件宪法：SOUL.md + USER.md + AGENTS.md
+• Steipete 连发三个工具：wacrawl、birdclaw、Blacksmith
+
+💡 关键洞察：
+1. Sam Altman 的重新思考 OS/UI/互联网协议反映了计算范式正在发生变化
+2. 每个行业的工作都有大量看不见的最后一公里，这是 AI 替代论被高估的根本原因
+3. 编程能力等于熟练使用计算机的能力，而会自我改进的编程 Agent 意味着更深的智能
+4. Agent 有灵魂的前提是它真的了解你是谁，而不是一个通用的系统提示词
+5. AI 时代的基础设施不只是模型，还有数据主权、本地存储、开发者可控的计算资源
+
+📡 信息来源：
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026年4月27日数据）]]></description>
+      <pubDate>Tue, 28 Apr 2026 00:17:12 GMT</pubDate>
+      <enclosure url="https://lffengliang-ship-it.github.io/ai-podcast/episode-2026-04-28.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-04-28</guid>
+    </item>
+<item>
       <title><![CDATA[2026-04-26 AI Builders 日报]]></title>
       <description><![CDATA[🔍 本期内容：
 • Sam Altman 公开承认 Claude Code 编程能力已超越 ChatGPT，AI 编程竞争进入"谁更好"新阶段
