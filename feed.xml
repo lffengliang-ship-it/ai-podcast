@@ -10,6 +10,31 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[资讯 | AI Builders Digest · 2026年4月28日]]></title>
+      <description><![CDATA[🔍 本期内容：
+• OpenAI 与微软更新合作协议：开放多云部署，合作延续至 2032 年，深度绑定依旧
+• Matt Turck 谈 enterprise AI gap：硅谷叙事 vs 全球 2000 强现实，gap 前所未有大
+• Solo founder Tibo 的三堂课：day one 收费、顺着用户行为 pivot、50-100 美元定价
+• Codex 操控浏览器绕过 GitHub rate limit，agent 工具层打通最后一公里
+• Replit 垂直整合加速，agent 把编程门槛压到历史最低
+• GStack 集成 Claude Code CLI，开发者工作流 AI 化再进一步
+• Dawn 社区成立，专为 ex-founders 打造的闭门交流圈
+
+💡 关键洞察：
+1. OpenAI 去微软化已经开始，但深度联盟关系并未松动，行业影响深远
+2. 大企业对 AI 的采纳远落后于硅谷叙事，真实需求验证是破局关键
+3. 不要听用户说什么，要看用户实际在做什么——Tibo Revid 案例的最佳注解
+4. AI agent 操控浏览器代表工具层质的飞跃，开发者堵点正在被逐个打通
+5. 垂直整合与生态集成正在同步加速，开发者工作流的 AI 化进入快车道
+
+📡 信息来源：
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026年4月28日数据）]]></description>
+      <pubDate>Wed, 29 Apr 2026 01:07:07 GMT</pubDate>
+      <enclosure url="http://te6if7i5c.hd-bkt.clouddn.com/podcast/episode-2026-04-29.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-04-29</guid>
+    </item>
+<item>
       <title><![CDATA[资讯 | GPT-5.5 来了，Sam Altman 连发三条推，呼吁重新思考操作系统]]></title>
       <description><![CDATA[🔍 本期内容：
 • GPT-5.5 发布引发社区强烈反响，Sam Altman 连发三条推
