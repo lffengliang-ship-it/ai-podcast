@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title><![CDATA[AI Builders 资讯]]></title>
-    <description><![CDATA[每日解读 AI Builders 的前沿动态，为 AI 产品经理和创业者提供洞察与启发]]></description>
+    <description><![CDATA[用通俗的方式解读 AI 前沿动态和学习资源，为对 AI 感兴趣的每个人提供洞察与启发]]></description>
     <author>麦琪</author>
     <itunes:author>麦琪</itunes:author>
     <itunes:image href="https://lffengliang-ship-it.github.io/ai-podcast/cover.jpg"/>
@@ -10,6 +10,28 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[资讯 | AI正在占领你的工具盘——这意味着什么]]></title>
+      <description><![CDATA[🔍 本期内容：
+• 先说点赞量最大的：Anthropic 宣布 Claude 全面接入创意工具生态。
+• 为什么这条这么重要？
+• 这对 AI 创业者意味着什么？
+• 接下来这件事，我觉得对产品经理和 founder 来说，甚至更有意思。
+• 我认真想了想这个观点，觉得他说的是一个挺根本的东西。
+• 然后说一个我认为被低估的新闻——Mesa 企业级文件系统。
+• 说回开发者工具。
+• 说到 AI 在开发流程里的落地，Peter Steinberger 分享了一个很具体的案例。
+
+💡 关键洞察：
+1. 从正文中提炼的核心启发（详见音频）
+
+📡 信息来源：
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026年4月28日至4月29日数据）]]></description>
+      <pubDate>Thu, 30 Apr 2026 03:17:40 GMT</pubDate>
+      <enclosure url="http://te6if7i5c.hd-bkt.clouddn.com/podcast/episode-2026-04-30.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-04-30</guid>
+    </item>
+<item>
       <title><![CDATA[资讯 | AI Builders Digest · 2026年4月28日]]></title>
       <description><![CDATA[🔍 本期内容：
 • OpenAI 与微软更新合作协议：开放多云部署，合作延续至 2032 年，深度绑定依旧
