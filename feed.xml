@@ -10,6 +10,28 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[资讯 | AI 浪潮的三条战线：企业代理、基础设施、儿童编程]]></title>
+      <description><![CDATA[🔍 本期内容：
+• Sam Altman 昨天发了一条推文，说他对语音模型即将变得出色感到非常兴奋，他还说了一句话很有意思——"看着人们已经开始改变与 AI 互动的方式，这很有趣。
+• Box 的 CEO Aaron Levie 昨天发了一条很重磅的推。
+• 他原话是这么说的："AI 模型已经具备了令人难以置信的能力，但要把这种智能稳定地应用到业务流程里，没有捷径。
+• 意味着接下来 12 到 24 个月，真正的金矿不在模型层，而在"模型和应用之间的那一层"——也就是怎么把 AI 能力真正落地到企业流程里。
+• 如果你在 AI 领域创业，这是一个巨大的机会。
+• 对于 AI 产品经理来说，这也意味着你需要把"change management"纳入产品设计——产品再好，如果企业没有准备好 adoption，也是白搭。
+• Vercel 的 CEO Guillermo Rauch 发布了一个开源工具叫 npx deepsec——一个专门做深度安全审计的 AI 代理编排器。
+• 具体是什么？
+
+💡 关键洞察：
+1. 从正文中提炼的核心启发（详见音频）
+
+📡 信息来源：
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026年5月4日至5月5日数据）]]></description>
+      <pubDate>Thu, 07 May 2026 08:21:33 GMT</pubDate>
+      <enclosure url="http://te6if7i5c.hd-bkt.clouddn.com/podcast/episode-2026-05-07.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-05-07</guid>
+    </item>
+<item>
       <title><![CDATA[资讯 | AI正在占领你的工具盘——这意味着什么]]></title>
       <description><![CDATA[🔍 本期内容：
 • 先说点赞量最大的：Anthropic 宣布 Claude 全面接入创意工具生态。
