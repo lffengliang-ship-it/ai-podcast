@@ -10,6 +10,35 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[资讯 | AI Builders Daily · 2026-05-08]]></title>
+      <description><![CDATA[🔍 本期内容：
+- Claude 全面进入微软办公全家桶——Excel、Word、PowerPoint 三件套正式发布，跨应用携带完整上下文
+- Sam Altman 三连发——AI 安全必须解决、AI 增强人而非取代人、语音交互代际差异观察
+- Firefox 团队用 Claude 一个月修复安全漏洞超此前 15 个月总和——AI 编程工具真正价值是补技术债
+- Google Gemini 产品负责人离职复盘：三年从落后者到前沿竞争者
+- Garry Tan 发布 GStack v1.28 和 GBrain thin-client——降低 AI agent 接入门槛
+- Box CEO Aaron Levie：AI 商品化后差异化转移到销售、营销、客户成功
+- Dan Shipper：AI 平台战争正在到来
+- Cursor 全流程演示 + GPT 5.5 /goal 命令 + OpenClaw 多 Agent 协作
+- Zico Kolter 深度对话：OpenAI 董事会视角谈 AI 安全与风险管理
+- South Park Commons 实体 AI Hackathon（5/15-17 旧金山）
+
+💡 关键洞察：
+1. Claude 的深度企业级集成策略正在改变 AI 竞争维度——不在模型本身，在工作流嵌入
+2. Firefox 案例揭示 AI 编程工具的真正价值：补技术债比写新功能更值钱
+3. Altman 三条推文构成完整叙事——主动姿态管理应对监管压力
+4. AI 商品化后差异化转移到新领域——Sales、Marketing、Customer Success 成新战场
+5. OpenClaw 多 Agent 协作进入现实——multi-agent 系统从概念走向工程化
+
+📡 信息来源：
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026-05-08 数据）
+]]></description>
+      <pubDate>Sat, 09 May 2026 00:17:37 GMT</pubDate>
+      <enclosure url="http://te6if7i5c.hd-bkt.clouddn.com/podcast/episode-2026-05-09.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-05-09</guid>
+    </item>
+<item>
       <title><![CDATA[资讯 | 80x增长背后：Anthropic CEO首次披露AI产品化真相]]></title>
       <description><![CDATA[🔍 本期内容：
 • 先说一个数字——80倍。
