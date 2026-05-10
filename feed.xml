@@ -10,6 +10,32 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[资讯 | 本地AI开发大爆发：128GB MacBook上的百万Token与实时视频理解]]></title>
+      <description><![CDATA[🔍 **本期内容：**
+• YC CEO Garry Tan 重磅推荐：128GB MacBook 本地跑 100万Token上下文编码环境，暗示"个人软件时代"来临
+• Thariq：HTML是新的Markdown——用AI生成代码后，格式选择的逻辑变了
+• Zara Zhang：YouTube Realtime Copilot 发布，GPT Realtime 2 解锁实时视频理解应用
+• Aaron Levie：企业Token预算管理成为新痛点，这本身是个创业机会
+• Matt Turck：ToB AI Agent定价不能只靠用量计费，需要混合模式
+• Alex Albert：Claude Mythos Preview在METR基准上，任务时间跨度超对手2倍以上
+• Peter Steinberger：Codex技能越丰富，Prompt Engineering价值越快贬值
+• Dan Shipper：Codex是3-4个月信息差带来的世代级投资机会
+
+💡 **关键洞察：**
+1. 本地AI开发环境已具备完整可用性，创业门槛降低但竞争门槛同步降低
+2. AI能力快速下沉，"会prompt"即将贬值，系统设计和工具封装能力才是新稀缺技能
+3. 企业级AI运营是真实未被解决的难题：Token预算、身份系统、审计追踪
+4. 实时多模态理解已进入可编程阶段，应用层创业窗口正在打开
+5. 第三方评估机构的数据比厂商自述更可信，Claude在Agent长程任务上有2倍优势
+
+📡 **信息来源：**
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026-05-08 至 2026-05-09 数据）]]></description>
+      <pubDate>Sun, 10 May 2026 07:28:13 GMT</pubDate>
+      <enclosure url="http://te6if7i5c.hd-bkt.clouddn.com/podcast/episode-2026-05-10.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-05-10</guid>
+    </item>
+<item>
       <title><![CDATA[资讯 | AI Builders Daily · 2026-05-08]]></title>
       <description><![CDATA[🔍 本期内容：
 - Claude 全面进入微软办公全家桶——Excel、Word、PowerPoint 三件套正式发布，跨应用携带完整上下文
