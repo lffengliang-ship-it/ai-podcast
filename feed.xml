@@ -10,6 +10,34 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[资讯 | OpenAI 内部曝光：Altman 晒 Codex 效率，Levie 论专家护城河]]></title>
+      <description><![CDATA[🔍 本期内容：
+- Altman 晒 Codex 效率：带娃晒太阳顺便跑代码任务，AI 完成了他才回来
+- GPT-5.5 被 Altman 形容为"孤独的天才"，内部对模型能力既惊叹又略带讽刺的谦卑
+- Aaron Levie：AI 降低门槛，但专家借助 AI 输出远超新手，专家护城河不降反升
+- Peter Yang 预警：AI 生成内容会自我腐化，最初 5% 的 slop 传几代后变成无法收拾的垃圾堆
+- Peter Yang 投诉 Claude Code 静默卡顿三分钟，用户对 AI 工作状态缺乏可见性
+- Garry Tan 的 GBrain v0.31.1：MCP thin client 支持，本地 AI 大脑正式进入 client-server 时代
+- Peter Steinberger 用 Codex 端到端修复 bug、重构代码，Codex 正在从工具变成独立执行者
+- Zara Zhang：HTML 作为 AI 输出格式被低估，AI 消费体验 vs AI 操作便利的范式转换
+- Nikunj Kothari：一条 prompt 技巧让 AI 时间估算从"人天"变成"模型执行单位"
+
+💡 关键洞察：
+1. Agent 模式使用率是比任何调研都更真实的产品 PMF 指标——看用户真正在用什么，而不是他们说什么
+2. 专家是 AI 产品的护城河：做 AI 工具不能只想着降低门槛，要同时想怎么让专家重度用户效率倍增
+3. AI 工作流必须内置人类审核节点：快不是目的，准才是，"AI 腐化"会在无声中积累
+4. 静默卡顿是 AI 产品留存杀手：三分钟无声等待在用户心理里等同于"出问题了"，需要社交信号介入
+5. HTML 将成为 AI 时代最重要的消费内容格式：从代码输出到直接消费的内容，这是范式转换
+
+📡 信息来源：
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026-05-09 至 2026-05-10 数据）
+]]></description>
+      <pubDate>Mon, 11 May 2026 00:57:52 GMT</pubDate>
+      <enclosure url="http://te6if7i5c.hd-bkt.clouddn.com/podcast/episode-2026-05-11.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-05-11</guid>
+    </item>
+<item>
       <title><![CDATA[资讯 | 本地AI开发大爆发：128GB MacBook上的百万Token与实时视频理解]]></title>
       <description><![CDATA[🔍 **本期内容：**
 • YC CEO Garry Tan 重磅推荐：128GB MacBook 本地跑 100万Token上下文编码环境，暗示"个人软件时代"来临
