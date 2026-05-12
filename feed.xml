@@ -10,6 +10,36 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[资讯 | Sam Altman的goblin玩笑与AI命名文化]]></title>
+      <description><![CDATA[🔍 本期内容：
+• Sam Altman开玩笑把下个模型叫"goblin"，9171赞——AI命名文化的诞生
+• Box CEO Aaron Levie：AI Agent落地企业知识管理比想象中难得多
+• Jarred用Rust重写Bun通过99.8%测试——"我们不够有野心"
+• steipete用Codex改进OpenClaw + 把Twitter archive接给Codex
+• Peter Yang：想让AI帮读孩子的学校通讯——日常生活才是AI最大战场
+• Garry Tan：设计的最高形式是对人类痛苦的纯粹转化
+
+💡 关键洞察：
+
+1. AI品牌=情绪共鸣：当模型命名能引发全网讨论，AI已从技术工具变成大众文化符号——产品的"人设"在名字里，不只在功能里
+
+2. Agent落地冰山在水面下：Levie揭示了企业知识管理Agent需要的7项工程能力——光有模型不够，还需要"最后一公里"的完整工程栈
+
+3. AI是技术冒险的放大器：Jarred用Rust重写Bun成功，说明AI辅助+强类型语言让"重写成熟项目"从不可能变成可能——ambitious的目标值得追
+
+4. 历史资产是活的：把Twitter archive、代码库接给Agent后，静态文档变成了可查询的知识——你的历史数据是还未变现的资产
+
+5. 日常痛苦 > 酷炫场景：Peter Yang的学校通讯例子说明——AI最杀手级的应用往往在"从噪音里找信号"的日常琐事里，而不是企业级黑科技
+
+📡 信息来源：
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026年05月10日 至 05月11日）
+]]></description>
+      <pubDate>Tue, 12 May 2026 00:58:18 GMT</pubDate>
+      <enclosure url="http://te6if7i5c.hd-bkt.clouddn.com/podcast/episode-2026-05-12.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-05-12</guid>
+    </item>
+<item>
       <title><![CDATA[资讯 | OpenAI 内部曝光：Altman 晒 Codex 效率，Levie 论专家护城河]]></title>
       <description><![CDATA[🔍 本期内容：
 - Altman 晒 Codex 效率：带娃晒太阳顺便跑代码任务，AI 完成了他才回来
