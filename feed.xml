@@ -10,6 +10,37 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[资讯 | AI输出的形态变革：HTML取代Markdown，终端成为超级入口]]></title>
+      <description><![CDATA[🔍 本期内容：
+• AI输出形态演进：为什么HTML是比Markdown更好的AI输出格式，Andrej Karpathy的"视觉输出"理论
+• 终端成为超级入口：Cat Wu的Claude Code agents控制平面用法，开发者工具的新方向
+• AI治理透明化：Claude宪法有声书发布，Amanda Askell的可解释性实践
+• 实时标准被刷新：Swyx观察到的"实时"概念被重新定义
+
+💡 关键洞察：
+
+1. AI输出正在从"说什么"进化到"怎么展示" —— Karpathy的理论告诉我们，音频输入+视觉输出是人机交互的最优解。这意味着AI产品经理需要把"输出格式设计"当成核心工作，而不是只关注AI说了什么
+
+2. "HTML输出"是今天就能实验的方向 —— 在提示词里加一句"structure your response as HTML"，立刻就能尝试。关键是改变思维：AI输出不是静态文字，而是可交互的内容
+
+3. 终端正在成为AI开发者的超级入口 —— 命令行有最低认知负担、天然适合批量操作、和工具链无缝串联。如果你做的是开发者工具，优先考虑CLI而不是网页
+
+4. "AI操控平面"是一个被忽视的小赛道 —— 当多个agent同时运行，需要一个统一视图来管理。Cat Wu的用法揭示了这个需求
+
+5. AI可解释性会成为产品标配 —— 把AI行为规则公开、有声书化，是建立信任的新方式。透明度越高，用户信任度越高
+
+6. 实时性标准在不断被刷新 —— 不要用昨天的标准定义今天的竞争。持续观察行业动态，是AI行业生存的基本功
+
+📡 信息来源：
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026年5月12日数据）
+原始来源：Andrej Karpathy、Cat Wu、Amanda Askell、Swyx 的 Twitter/X
+]]></description>
+      <pubDate>Wed, 13 May 2026 01:09:45 GMT</pubDate>
+      <enclosure url="http://te6if7i5c.hd-bkt.clouddn.com/podcast/episode-2026-05-13.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-05-13</guid>
+    </item>
+<item>
       <title><![CDATA[资讯 | Sam Altman的goblin玩笑与AI命名文化]]></title>
       <description><![CDATA[🔍 本期内容：
 • Sam Altman开玩笑把下个模型叫"goblin"，9171赞——AI命名文化的诞生
