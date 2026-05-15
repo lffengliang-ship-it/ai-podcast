@@ -10,6 +10,31 @@
     <link>https://github.com</link>
     
     <item>
+      <title><![CDATA[资讯 | 裁员潮与千亿融资：AI 创业格局正在分化]]></title>
+      <description><![CDATA[🔍 本期内容：
+• Q1 8万人裁员真相：不是AI替代人，而是科技公司为大放水时代过度招聘买单
+• 2026 Q1 AI融资2555亿美元超去年全年，但67%集中在三个超大轮次
+• 资本两极分化：顶级研究人才拿天文数字，me-too项目融资越来越难
+• 大厂AI人才出逃加速，资本押注下一代平台级产品
+• 主权AI崛起：欧洲数据主权、印度语言模型、中东主权基金入场
+
+💡 关键洞察：
+1. "AI替代岗位"叙事被过度放大，真实逻辑是企业在为战略失误买单，AI只是背锅侠
+2. 企业买家正在快速成熟——不再为"AI加持"概念付费，只看ROI，按实际节省人力或处理案件量收费成为新定价模式
+3. Nikunj Kothari的信号：VC已成共识资本，真正有信念的创始人反而稀缺，"痴迷于解决问题"而非"痴迷于拿融资"才是正确创业心态
+4. 垂直行业本地化壁垒是大厂研究人才无法复制的护城河——医疗、金融、制造业、法律各有积累门槛
+5. 中东主权基金是深度技术创业的新资金来源，周期比美国VC长得多，对真正的技术研发是理想选择
+
+📡 信息来源：
+数据来自 Zara 的 Follow Builders GitHub 仓库（2026年5月13日至14日数据）
+融资数据参考 PitchBook、CNBC、Dealroom（2026年Q1）
+]]></description>
+      <pubDate>Fri, 15 May 2026 01:22:50 GMT</pubDate>
+      <enclosure url="http://te6if7i5c.hd-bkt.clouddn.com/podcast/episode-2026-05-15.mp3" length="0" type="audio/mpeg"/>
+      <duration>0</duration>
+      <guid isPermaLink="false">builders-2026-05-15</guid>
+    </item>
+<item>
       <title><![CDATA[资讯 | AI输出的形态变革：HTML取代Markdown，终端成为超级入口]]></title>
       <description><![CDATA[🔍 本期内容：
 • AI输出形态演进：为什么HTML是比Markdown更好的AI输出格式，Andrej Karpathy的"视觉输出"理论
